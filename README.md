@@ -18,4 +18,7 @@
 ![Sql](https://img.shields.io/badge/-SQL-090905?style-for-the-badge&logo=MySQL:
 )
 
-Follow me
+### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-090905?style-for-the-badge&logo=telegram:
+)](https://t.me/t1txxa)
+
