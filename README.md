@@ -1,4 +1,4 @@
-[![Header](https://github.com/Timgxer/Timgxer/blob/main/assets/frontender.jpg)]
+![Header](https://github.com/Timgxer/Timgxer/blob/main/assets/frontender.jpg)
 
 ## I am a frontend developer and businessman.
 
