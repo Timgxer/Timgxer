@@ -1,16 +1,21 @@
-## Hi there 👋
+[![Header](https://github.com/Timgxer/Timgxer/blob/main/assets/frontender.jpg)]
 
-<!--
-**Timgxer/Timgxer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a frontend developer and businessman.
 
-Here are some ideas to get you started:
+### Laguages and Tools
+![Python](https://img.shields.io/badge/-Python-090905?style-for-the-badge&logo=python
+)
+![HTML](https://img.shields.io/badge/-HTML-090905?style-for-the-badge&logo=html
+)
+![CSS](https://img.shields.io/badge/-CSS-090905?style-for-the-badge&logo=css
+)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090905?style-for-the-badge&logo=JavaScript
+)
+![Node.js](https://img.shields.io/badge/-Framework-090905?style-for-the-badge&logo=Node.js
+)
+![PHP](https://img.shields.io/badge/-PHP-090905?style-for-the-badge&logo=PHP
+)
+![Sql](https://img.shields.io/badge/-SQL-090905?style-for-the-badge&logo=MySQL:
+)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Follow me
