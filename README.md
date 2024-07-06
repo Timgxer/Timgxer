@@ -15,8 +15,11 @@
 )
 ![PHP](https://img.shields.io/badge/-PHP-090905?style-for-the-badge&logo=PHP
 )
+![TypeScript](https://img.shields.io/badge/-TypeScript-090905?style-for-the-badge&logo=TypeScript:
+)
 ![Sql](https://img.shields.io/badge/-SQL-090905?style-for-the-badge&logo=MySQL:
 )
+
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090905?style-for-the-badge&logo=telegram:
